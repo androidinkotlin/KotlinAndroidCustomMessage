@@ -1,1 +1,2 @@
-.rb linguist-language=Kotlin
+$ cat .gitattributes
+*.rb linguist-language=Kotlin
